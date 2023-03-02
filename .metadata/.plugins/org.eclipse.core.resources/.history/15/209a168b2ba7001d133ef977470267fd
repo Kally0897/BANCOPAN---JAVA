@@ -1,0 +1,10 @@
+package dio.edu;
+
+public class PrimeiroPrograma {
+
+	public static void main(String[] args) {
+	  System.out.println("Hello World, I'm currently learning JAVA with Eclipse");
+
+	}
+
+}
