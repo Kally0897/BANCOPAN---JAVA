@@ -49,7 +49,7 @@ public class Pilha {
            if (noAuxiliar != null){
                stringRetorno += "[No{dado=" + noAuxiliar.getDado() + "}]\n";
            }
-           }else{
+           else{
                break;
            }
        }
