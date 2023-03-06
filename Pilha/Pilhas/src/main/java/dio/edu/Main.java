@@ -15,5 +15,9 @@ public class Main {
 
 
         System.out.println(minhaPilha);
+
+        System.out.println(minhaPilha.pop());
+
+        System.out.println(minhaPilha);
     }
 }
